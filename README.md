@@ -12,11 +12,7 @@ I'm currently working on login system
 ![](https://komarev.com/ghpvc/?username=jeronofaith&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 ## 🌱 Skills
-- **Languages**: Python, JavaScript, Java, C/C++, PHP, HTML/CSS
-- **Frameworks**: PyTorch, Transformers, Django, Flask, React
-- **Tools**: Git, Docker, Jupyter, VS Code
-- **ML/AI**: Natural Language Processing, Machine Translation, Neural Networks
-- **Data Science**: Data Analysis, Visualization, Statistical Modeling
+- **Languages**: JavaScript, C/C++, PHP, HTML/CSS
 
 ## 📫 How to reach me
 - **Email**: jeronofay21@gmail.com
